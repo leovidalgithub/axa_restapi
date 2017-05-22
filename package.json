@@ -1,0 +1,16 @@
+{
+  "name": "axa_insurance",
+  "version": "1.0.0",
+  "description": "Axa Insurance REST API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo Rdgz Vidal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
